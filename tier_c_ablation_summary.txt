@@ -1,0 +1,4 @@
+Full feature set AUC: 0.7326
+Excluding Tier C AUC: 0.7317
+Difference: 0.0009
+Tier C variables present: ['fico_score', 'pub_rec', 'pub_rec_bankruptcies', 'tax_liens']
